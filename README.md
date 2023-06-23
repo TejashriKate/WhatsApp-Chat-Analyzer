@@ -15,7 +15,7 @@ Data:
 
 
 
-Software Requirement are as below -
+Software Requirement:
 
 
 Streamlit:Frontend
